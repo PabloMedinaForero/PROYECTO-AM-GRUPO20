@@ -1,0 +1,3 @@
+nombre,aumento,accuracy_val,mejor_epoca
+p2_exp06_mbert_ajustado,False,0.8849535906204201,4
+p2_exp07_mbert_ajustado_aumento,True,0.8883732291157792,4

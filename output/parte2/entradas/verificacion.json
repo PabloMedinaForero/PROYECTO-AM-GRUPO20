@@ -1,0 +1,15 @@
+{
+  "filas": 6781,
+  "predicciones_identicas": 6781,
+  "columnas": [
+    "id",
+    "answer"
+  ],
+  "encoder_sha256": "019b27a155a329e753b59f356708d4619982fc4e54335905c608b511ad358051",
+  "clases": {
+    "positivo": 2837,
+    "negativo": 2649,
+    "neutral": 1295
+  },
+  "recalculado_sin_cache": true
+}

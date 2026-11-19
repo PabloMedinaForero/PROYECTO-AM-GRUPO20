@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+tmp/
+cache/parte2/
+output/parte2/cache/
+models/parte2/
+output/parte2/entrega/
+output/parte2/mejora/entrega/
+output/parte2/entradas/entrega/
+output/parte2/entradas/cache/
+output/parte2/pruebas/
+*.log
+.env
+kaggle.json

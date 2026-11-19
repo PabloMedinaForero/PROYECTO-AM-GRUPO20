@@ -1,0 +1,18 @@
+{
+  "fecha": "2026-11-18",
+  "rama": "codex/proyecto-2",
+  "ejecucion_completa": true,
+  "celdas_codigo_ejecutadas": 21,
+  "errores_notebook": 0,
+  "filas_train_original": 20466,
+  "filas_eval": 6781,
+  "filas_validacion": 4094,
+  "pruebas_unitarias_aprobadas": 6,
+  "submissions_generados": 5,
+  "submissions_con_predicciones_distintas": 5,
+  "predicciones_reproducidas_desde_archivos_guardados": 6781,
+  "mejor_accuracy_validacion": 0.7178798241328774,
+  "accuracy_kaggle": 0.70383,
+  "envios_kaggle_realizados_por_esta_tarea": 0,
+  "seleccion_final_provisional": false
+}

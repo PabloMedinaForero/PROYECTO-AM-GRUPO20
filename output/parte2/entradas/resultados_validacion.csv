@@ -1,0 +1,10 @@
+nombre,entrada,representacion,cabeza,accuracy_val,mejor_epoca,cambio_vs_anterior_pp
+p2_exp13_ultimas4_mlp,parrafo,ultimas4,mlp,0.89057156814851,7,0.21983390327308117
+p2_exp10_cls_promedio_lineal,parrafo,cls_promedio,lineal,0.8900830483634588,1,0.17098192476795449
+p2_exp11_cls_promedio_mlp,parrafo,cls_promedio,mlp,0.8898387884709331,7,0.14655593551539114
+p2_exp12_mitades_mlp,parrafo,mitades,mlp,0.8895945285784074,7,0.1221299462628167
+p2_exp08_cls_lineal,parrafo,cls,lineal,0.8888617489008305,5,0.04885197850512668
+p2_exp09_promedio_lineal,parrafo,promedio,lineal,0.8881289692232536,2,-0.02442598925256334
+p2_exp16_maximo_mlp,parrafo,cls_promedio_maximo,mlp,0.8873961895456766,1,-0.09770395701026446
+p2_exp15_segmentos_mlp,dos_segmentos,mitades,mlp,0.8834880312652662,7,-0.4885197850513001
+p2_exp14_segmentos_lineal,dos_segmentos,mitades,lineal,0.8825109916951637,7,-0.5862237420615535

@@ -1,0 +1,9 @@
+{
+  "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+  "torch": "2.14.0+cu130",
+  "transformers": "5.17.0",
+  "numpy": "2.4.6",
+  "pandas": "3.1.1",
+  "sklearn": "1.9.1",
+  "gpu": "NVIDIA GeForce RTX 3060"
+}

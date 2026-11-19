@@ -1,0 +1,6 @@
+nombre,representacion,aumento,neuronas,dropout,lr,accuracy_val,mejor_epoca,n_entrenamiento,segundos
+p2_exp05_lr_aumento,cls_promedio,True,128,0.2,0.0003,0.7178798241328774,6,24547,8.044777393341064
+p2_exp04_cls_promedio_aumento,cls_promedio,True,128,0.2,0.001,0.7039570102589154,3,24547,6.485488653182983
+p2_exp01_cls,cls,False,128,0.2,0.001,0.7005373717635565,6,16372,5.505726337432861
+p2_exp03_promedio_aumento,promedio,True,128,0.2,0.001,0.6949193942354666,6,24547,7.545220851898193
+p2_exp02_promedio,promedio,False,128,0.2,0.001,0.6936980947728383,12,16372,7.925865411758423

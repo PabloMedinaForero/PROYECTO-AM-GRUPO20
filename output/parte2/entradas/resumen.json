@@ -1,0 +1,20 @@
+{
+  "ganador_validacion": {
+    "nombre": "p2_exp13_ultimas4_mlp",
+    "entrada": "parrafo",
+    "representacion": "ultimas4",
+    "cabeza": "mlp"
+  },
+  "accuracy_val": 0.89057156814851,
+  "accuracy_val_anterior": 0.8883732291157792,
+  "score_publico_anterior": 0.87721,
+  "score_publico_nuevo": 0.87819,
+  "encoder_comparacion": "models\\parte2\\finetuning\\p2_exp07_mbert_ajustado_aumento\\validacion\\encoder",
+  "encoder_reentrenamiento": "models\\parte2\\finetuning\\p2_exp07_mbert_ajustado_aumento\\completo\\encoder",
+  "seleccion_provisional": false,
+  "archivo_full": "output\\parte2\\entradas\\submissions\\p2_exp13_ultimas4_mlp_full.csv",
+  "archivo_particion80": "output\\parte2\\entradas\\submissions\\p2_exp13_ultimas4_mlp_particion80.csv",
+  "archivo_mejor_publico": "output\\parte2\\entradas\\submissions\\p2_exp13_ultimas4_mlp_full.csv",
+  "origen_score_publico": "Reportado por el grupo para el CSV full recomendado.",
+  "estado_experimentos": "En pausa a solicitud del grupo; retomar cuando lo indiquen."
+}

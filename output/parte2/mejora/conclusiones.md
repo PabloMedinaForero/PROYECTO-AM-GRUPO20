@@ -1,0 +1,1 @@
+El mejor ajuste obtuvo **0.88837** en la misma validación, un cambio de **+17.05 puntos** frente al MLP congelado. El efecto del aumento fue **+0.34 puntos** al comparar la misma arquitectura. El resultado público nuevo todavía debe verificarse en Kaggle. Los idiomas son estimados; los cuatro ejemplos marcados como mezcla no permiten generalizar a todas las reseñas mixtas.
